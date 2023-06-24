@@ -1,7 +1,7 @@
 # Malaria-Diagnosis-using-Functional-API
 Malaria Diagnosis using Functional API
 
-#Language used
+# Language used
 Python language is used 
 
 In this code we have trained more advanced model with tensorflow, previously we used Sequential API but this time we have used functional API for this purpose 
